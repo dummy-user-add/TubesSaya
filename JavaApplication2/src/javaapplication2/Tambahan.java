@@ -10,5 +10,8 @@ package javaapplication2;
  * @author ANDITYAARIFIANTO
  */
 public class Tambahan {
-    
+
+    public void test() {
+
+    }
 }
