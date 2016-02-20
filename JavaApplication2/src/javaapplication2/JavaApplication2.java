@@ -20,6 +20,7 @@ public class JavaApplication2 {
         System.out.println("tambahan 2");
         System.out.println("dari anggota");
         System.out.println("dari anggota 2");
+        System.out.println("tambahan 3");
     }
     
 }
