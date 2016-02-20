@@ -9,9 +9,9 @@ package javaapplication2;
  *
  * @author ANDITYAARIFIANTO
  */
-public class Tambahan {
+public class KelasAnggota {
 
-    public void test() {
-
+    public void anggota() {
+        System.out.println("ok");
     }
 }
