@@ -18,6 +18,7 @@ public class JavaApplication2 {
         // TODO code application logic here
         System.out.println("perubahan dari ketua");
         System.out.println("tambahan 2");
+        System.out.println("tambahan 3");
     }
     
 }
